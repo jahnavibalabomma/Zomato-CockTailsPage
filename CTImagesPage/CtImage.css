@@ -1,0 +1,40 @@
+.cardImg {
+  width: 80vw;
+  margin: 2rem auto;
+  margin-left: 215px;
+  display: flex;
+  /* column-span: 3; */
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.cardImg img {
+  width: 260px;
+  border-radius: 5px;
+}
+.rating {
+  display: flex;
+  align-items: center;
+}
+
+.rating1 {
+  background-color: green;
+  color: white;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+span {
+  color: gray;
+  font-size: small;
+}
+.bartitle {
+  font-size: 20px;
+
+  color: rgb(28, 28, 28);
+  font-weight: 500;
+}
+.p1,
+.p2 {
+  color: gray;
+  font-size: 0.9rem;
+}

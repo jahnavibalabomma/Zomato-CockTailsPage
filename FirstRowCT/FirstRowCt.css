@@ -1,0 +1,58 @@
+header .home {
+  display: flex;
+  color: gray;
+  width: 73vw;
+  margin: 1rem auto;
+  font-size: small;
+}
+/* .mainhead {
+    font-size: 50px;
+    font-weight: 400;
+  } */
+.bgBarimage {
+  color: white;
+
+  margin-top: 9rem;
+  margin-left: 2rem;
+  position: absolute;
+}
+.barhomeimg {
+  width: 72vw;
+  /* margin: 2rem auto; */
+  margin-left: 215px;
+  margin-right: 250px;
+}
+.topbgBar {
+  position: absolute;
+  margin-left: 58%;
+  margin-top: 0.5rem;
+  display: flex;
+  gap: 10px;
+}
+.topbgBar h5 {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  opacity: 0.8;
+}
+.linkimg {
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  padding: 10px;
+  opacity: 0.8;
+  width: 25px;
+  height: 20px;
+
+  margin-top: 20px;
+  text-align: center;
+}
+.barhomeimg img {
+  border-radius: 10px;
+  width: 100%;
+  height: 45%;
+}
+.linkImg1 {
+  border-radius: 50%;
+}
